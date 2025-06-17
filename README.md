@@ -31,7 +31,7 @@ pip install Pillow
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/image-gallery-generator.git
+git clone https://github.com/Dominoer/image-gallery-generator.git
 cd image-gallery-generator
 
 # Run with sample data
