@@ -68,7 +68,7 @@ python src/html_gallery.py \
   --captions_folder sample_data/captions \
   --method_results processed/method_results \
   --html_output gallery.html \
-  --images_per_row 4
+  --cols 4
 
 # 4. Open gallery.html in your browser!
 ```
