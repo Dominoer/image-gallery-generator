@@ -151,14 +151,14 @@ python src/html_gallery.py \
   --captions_folder path/to/your/captions \
   --method_results processed/method_results \
   --html_output gallery.html \
-  --images_per_row 4
+  --cols 4
 ```
 
   * `--input_folder`: The processed input directory.
   * `--captions_folder`: Directory containing your `<basename>.txt` caption files.
   * `--method_results`: The processed, normalized method outputs directory.
   * `--html_output`: Output HTML filename (default: `gallery.html`).
-  * `--images_per_row`: Number of columns in the CSS grid (default: 4).
+  * `--cols`: Number of columns in the CSS grid (default: 4).
 
 ## 🎨 Customization
 
