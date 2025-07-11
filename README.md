@@ -164,7 +164,7 @@ python src/html_gallery.py \
 
   * **CSS Tweaks:** Edit the `<style>` block directly in `src/html_gallery.py`.
   * **Image Resolution:** Change the `--max_size` argument to control image dimensions.
-  * **Gallery Layout:** Adjust `--images_per_row` for more or fewer columns.
+  * **Gallery Layout:** Adjust `--cols` for more or fewer columns.
 
 ## 📁 Sample Data
 
